@@ -1,0 +1,15 @@
+Generative Models for Technical Image Understanding § [May 2025 – Present] Dr. Ashutosh Modi
+
+• Working as a student researcher on the project for the interpretation of technical diagrams using Vision Language Models(VLMs).
+• Contributed to the real-world dataset of the project by manually creating more than 30 flow chart images and authoring 150+
+Mermaid codes for graph and flow chart diagrams to serve as ground-truth data.
+• Explored the application of Denoising Diffusion Models for synthetic data generation, analyzing their current limitations and
+potential for creating realistic, hand-drawn-style technical images.
+• Currently developing a novel generative model to synthesize images that accurately reflect the variations found in real-world,
+hand-drawn diagrams.
+• Tech Stack: Python, PyTorch, Generative AI (Diffusion Models), Mermaid.js, Computer Vision.
+
+So the Notion Pages for the Thesis Litrature review -
+
+https://www.notion.so/exploration-lab/M-Tech-Thesis-Technical-Image-Understanding-20c90e48dd1d808c95f3e00aa665f0ba?source=copy_link
+ 
